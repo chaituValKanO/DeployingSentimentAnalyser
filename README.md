@@ -18,18 +18,18 @@ Docker Run commands:
 Open localhost:8888 and you should be able to access and play the application
 
 Important Kubernetes commands
-minikube start
-minikube service <service-name> - info abt the service
-minikube service list - List all services
-kubectl apply -f <path to maifest file>
-kubectl delete deployment <deployment-name>
-kubectl delete service <service-name>
-kubectl get all
-kubectl get deployments
-kubectl get pods
-kubectl get svc
-kubectl get nodes
-minikube stop
+1) minikube start
+2) minikube service <service-name> - info abt the service
+3) minikube service list - List all services
+4) kubectl apply -f <path to maifest file>
+5) kubectl delete deployment <deployment-name>
+6) kubectl delete service <service-name>
+7) kubectl get all
+8) kubectl get deployments
+9) kubectl get pods
+10) kubectl get svc
+11) kubectl get nodes
+12) minikube stop
 
 
 Installation Links:
